@@ -10,5 +10,5 @@ Here I have also plotted clusplot for plotting our and visualizing the different
   
 </table>
 
-**so what are waiting for..? Jump to the code to get started to learn to make this amazing cluster project. As usual for any query or suggestion see you in pull request section 😁😂. Thanks!**
+**So what are waiting for..? Jump to the code to get started to learn to make this amazing cluster project. As usual for any query or suggestion see you in pull request section 😁😂. Thanks!**
 
